@@ -5,14 +5,8 @@ Aplicación que permite buscar personajes de series y ver sus detalles.
 ## Cómo usar
 
 1. Clona el repositorio:
-```bash
-git clone https://github.com/tu-usuario/mi-proyecto.git
-# Mi Proyecto
-
-Aplicación que permite buscar personajes de series y ver sus detalles.
-
-## Cómo usar
-
-1. Clona el repositorio:
-```bash
-git clone https://github.com/tu-usuario/mi-proyecto.git
+git clone https://github.com/MariaMedranoLedezma/Maria-prueba-tecnica-frontend.git
+2. Instalar:
+npm install axios react-router-dom
+3. Ejecutar el proyecto:
+npm start
